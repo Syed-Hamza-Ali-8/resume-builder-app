@@ -1,0 +1,15 @@
+#resume-template {
+    display: none;
+}
+
+.myImg {
+    width: 150px;
+}
+
+.background {
+    background-color: #4682b4;
+}
+
+.main-name {
+    font-weight: 700;
+}
